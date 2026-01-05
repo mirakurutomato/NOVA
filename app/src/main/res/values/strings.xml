@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_video">Video</string>
+    <string name="nav_memory">NOVA</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="title_dashboard">MISSION DASHBOARD</string>
+    <string name="status_battery">BATTERY</string>
+    <string name="status_weather">WEATHER</string>
+    <string name="status_gps">GPS</string>
+    <string name="status_alerts">ALERTS</string>
+    <string name="value_clear">CLEAR</string>
+    <string name="value_locked">LOCKED</string>
+    <string name="value_none">NONE</string>
+    <string name="title_map">AREA MAP</string>
+    <string name="map_unavailable">MAP DATA UNAVAILABLE\n(Connect to Network)</string>
+    <string name="action_sos">BROADCAST SOS SIGNAL</string>
+
+    <!-- Video HUD -->
+    <string name="hud_title">NOVA SYSTEMS // FPV FEED</string>
+    <string name="hud_system">SYSTEM</string>
+    <string name="hud_link">USB LINK</string>
+    <string name="hud_enhance_on">ENHANCE: ON</string>
+    <string name="hud_rec">REC</string>
+    <string name="hud_set">SET</string>
+
+    <!-- Memory Screen -->
+    <string name="memory_empty_title">No Footage Saved</string>
+    <string name="memory_empty_desc">Recorded videos will appear here.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">SETTINGS</string>
+    <string name="pref_language">Language</string>
+    <string name="pref_display">Display Units</string>
+    <string name="pref_version">Version</string>
+    <string name="pref_privacy">Privacy Policy</string>
+    <string name="privacy_content">Personal data is processed solely for disaster relief automation. Video feeds are processed locally on the device and are not uploaded to any external server without explicit user action.</string>
+    <string name="copyright">2026 奥河 董馬（Toma Okugawa）. All Rights Reserved.</string>
+</resources>

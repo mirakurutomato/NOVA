@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- NOVA Star - 4-pointed star with glow effect inspired by logo -->
+    <!-- Outer Glow (subtle amber) -->
+    <path
+        android:fillColor="#3DD4A373"
+        android:pathData="M54,18 L58,48 L88,54 L58,60 L54,90 L50,60 L20,54 L50,48 Z" />
+    <!-- Inner Star (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 L57,50 L82,54 L57,58 L54,84 L51,58 L26,54 L51,50 Z" />
+    <!-- Center Glow Point (Amber/Gold) -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M54,50 L56,53 L54,58 L52,53 Z" />
+</vector>

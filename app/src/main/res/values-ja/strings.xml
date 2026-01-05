@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">ホーム</string>
+    <string name="nav_video">映像</string>
+    <string name="nav_memory">NOVA</string>
+    <string name="nav_settings">設定</string>
+
+    <!-- Home Screen -->
+    <string name="title_dashboard">ミッションダッシュボード</string>
+    <string name="status_battery">バッテリー</string>
+    <string name="status_weather">天候</string>
+    <string name="status_gps">GPS</string>
+    <string name="status_alerts">アラート</string>
+    <string name="value_clear">良好</string>
+    <string name="value_locked">捕捉済</string>
+    <string name="value_none">なし</string>
+    <string name="title_map">エリアマップ</string>
+    <string name="map_unavailable">地図データ利用不可\n(ネットワークに接続してください)</string>
+    <string name="action_sos">SOS信号発信</string>
+
+    <!-- Video HUD -->
+    <string name="hud_title">NOVA SYSTEMS // FPV フィード</string>
+    <string name="hud_system">システム</string>
+    <string name="hud_link">USBリンク</string>
+    <string name="hud_enhance_on">補正: ON</string>
+    <string name="hud_rec">録画</string>
+    <string name="hud_set">設定</string>
+
+    <!-- Memory Screen -->
+    <string name="memory_empty_title">保存された映像はありません</string>
+    <string name="memory_empty_desc">録画された映像はここに表示されます。</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">設定</string>
+    <string name="pref_language">言語</string>
+    <string name="pref_display">表示単位</string>
+    <string name="pref_version">バージョン</string>
+    <string name="pref_privacy">プライバシーポリシー</string>
+    <string name="privacy_content">個人データは災害救援の自動化のためにのみ処理されます。映像フィードはデバイス上でローカルに処理され、ユーザーの明示的な操作なしに外部サーバーにアップロードされることはありません。</string>
+    <string name="copyright">2026 奥河 董馬（Toma Okugawa）. All Rights Reserved.</string>
+</resources>
